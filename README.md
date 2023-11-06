@@ -4,6 +4,6 @@
 
 # Atual
 
-## salvando alteraçoes no git
+## salvando alteraçoes no git 
 
-* uso do comando restore
+# '-'
